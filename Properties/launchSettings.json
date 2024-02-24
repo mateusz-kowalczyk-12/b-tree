@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SBD_Proj2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
