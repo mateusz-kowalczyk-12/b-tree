@@ -4,3 +4,5 @@ The application performs following simplified B-tree operations:
 - searching a record by the key,
 - printing all the records sorted by the key in ascending order,
 - printing the content of the main and index files.
+
+More details described in the Sprawozdanie.pdf file.
